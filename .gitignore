@@ -3,6 +3,7 @@
 common_datasets/
 */.DS_Store
 __pycache__/
-*/xnli/
+xnli/
 *.ipynb
+*.db
 
