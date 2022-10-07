@@ -1,1 +1,1 @@
-# PromptNLI
+# SoftLINK
